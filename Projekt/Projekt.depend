@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1491142115 source:d:\c++\projekt\main.cpp
+	<iostream>
+	"kontener.h"
+	"duzy_lotek.h"
+	"ControlSystem.h"
+
+1491120975 source:d:\c++\projekt\src\kontener.cpp
+	"kontener.h"
+
+1491141650 d:\c++\projekt\include\kontener.h
+	<iostream>
+	<string.h>
+	<string>
+
+1491141650 source:d:\c++\projekt\src\duzy_lotek.cpp
+	"duzy_lotek.h"
+
+1491134761 d:\c++\projekt\include\duzy_lotek.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"kontener.h"
+
+1491141650 source:d:\c++\projekt\src\raspberry.cpp
+	"Raspberry.h"
+
+1491141650 d:\c++\projekt\include\raspberry.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1491142115 d:\c++\projekt\include\controlsystem.h
+	"Raspberry.h"
+	<iostream>
+
